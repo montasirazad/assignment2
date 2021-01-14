@@ -1,0 +1,49 @@
+
+ 
+
+.navbar-brand img {
+height: 50px;
+    width: 250px;
+
+}
+
+.nav-item {
+    padding-right: 40px;
+    font-weight: bold;
+    
+}
+
+.container{
+    margin-bottom: 1.5cm;
+}
+
+  .h1{
+     font-size: 50px;
+     color: rgb(41, 16, 88);
+ }
+
+.h2{
+    font-size: larger;
+    color: rgb(45, 182, 45);
+}
+
+ .h3{
+      font-weight: bold;
+      font-size: 40px;
+      color: rgb(42, 25, 83);
+ }
+    
+  .container h6{
+      font-size: 40px;
+      color: rgb(56, 231, 21);
+  }
+
+
+ 
+
+ 
+
+
+
+
+  
