@@ -15,6 +15,7 @@ height: 50px;
 
 .container{
     margin-bottom: 1.5cm;
+     
 }
 
   .h1{
@@ -37,6 +38,20 @@ height: 50px;
       font-size: 40px;
       color: rgb(56, 231, 21);
   }
+
+  .btn-primary{
+      background-color: rgb(6, 5, 83);
+    color:white;
+  }
+
+
+.footer{
+    margin-left: 40%;
+    font-weight: bold;
+     
+}
+
+  
 
 
  
